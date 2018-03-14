@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df665baab2200af258aa030566b80aa4a1808c1e">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_64fe0844d017744bb3bcab2f3d0df687289fa3cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_213c90baabdea85422b2b346e77112fa21a0efcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_70322cb422acfb19a77f36820bee81f7063293c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_16558b5103d22217c541cbbf5b3f8d612fb28f1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_ed678a9e2746de43437b29c7a935dff68a618cbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_e15b4e4267b9f4b35b4c2b524343ca8a012f4230\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_78f2e36cf0a064584f67ca87abc874093383e35d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_3a6dcd6bc8bc682a9c9c446b4cd586be45628245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e054fe94739e7dd46f0c809c930794009e137739">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7dbff88da20b48472eb11da4db6d520b8a289aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_0d597ee58f7c987d2f20827fb9a5e1036d2154a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_4c05ef252b76750fc1b475b3008c10f7210d34d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_9ccdf63d6d2d78f63c1ca181ea48b3250a75f24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Trabajos\NextU\Android\NextU\ProyectoFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_ee2d8d09d2dccd15d5eb4865c8ff4c926ebfeacb\classes.dex" />
+    </item>
+
+</items>

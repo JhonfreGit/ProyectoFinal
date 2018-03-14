@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "D:\\Trabajos\\NextU\\Android\\NextU\\ProyectoFinal\\facebook\\build\\intermediates\\bundles\\debug\\res\\layout\\messenger_button_send_white_round.xml"
+    }
+]

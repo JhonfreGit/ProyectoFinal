@@ -7,4 +7,6 @@
     <string name="intro">Bienvenidos!!\nPor favor ingrese a la opción que aparece abajo
                         para ingresar a su perfil y buscar mas instrumentos</string>
     <string name="ingresar">Ingresar</string>
+    <string name="facebook_app_id">350069575489718</string>
+    <string name="fb_login_protocol_scheme">fb350069575489718</string>
 </resources>
