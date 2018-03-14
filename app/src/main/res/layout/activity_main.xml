@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
@@ -31,4 +32,104 @@
         android:textColor="@android:color/background_dark"
         android:textSize="18sp"
         android:textAlignment="center" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/piano"
+        android:id="@+id/imageView"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/introApp"
+        android:layout_alignLeft="@+id/tituloApp"
+        android:layout_alignStart="@+id/tituloApp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/tituloApp"
+        android:layout_alignEnd="@+id/tituloApp"
+        android:layout_marginRight="171dp"
+        android:layout_marginEnd="171dp"
+        android:layout_marginBottom="257dp"
+        android:contentDescription="@string/piano" />
+
+    <TextView
+        android:text="@string/piano"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="89dp"
+        android:layout_marginEnd="89dp"
+        android:id="@+id/pianoText"
+        android:layout_marginTop="13dp"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_alignRight="@+id/tituloApp"
+        android:layout_alignEnd="@+id/tituloApp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/guitarra"
+        android:layout_below="@+id/pianoText"
+        android:layout_alignLeft="@+id/imageView"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_marginTop="45dp"
+        android:id="@+id/imageView2"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/pianoText"
+        android:layout_toStartOf="@+id/pianoText"
+        android:layout_marginRight="33dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="195dp"
+        android:contentDescription="@string/guitarra" />
+
+    <TextView
+        android:text="@string/guitarra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guitarraText"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:layout_alignBottom="@+id/imageView2"
+        android:layout_toRightOf="@+id/imageView2"
+        android:layout_toEndOf="@+id/imageView2" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bongo"
+        android:layout_below="@+id/guitarraText"
+        android:layout_alignLeft="@+id/imageView2"
+        android:layout_alignStart="@+id/imageView2"
+        android:layout_marginLeft="11dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="29dp"
+        android:id="@+id/imageView3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/imageView"
+        android:layout_alignEnd="@+id/imageView"
+        android:layout_marginBottom="113dp"
+        android:contentDescription="@string/bongo" />
+
+    <TextView
+        android:text="@string/bongo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView3"
+        android:layout_toRightOf="@+id/imageView2"
+        android:layout_toEndOf="@+id/imageView2"
+        android:layout_marginTop="17dp"
+        android:id="@+id/bongoText"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp" />
+
+    <Button
+        android:text="@string/ingresar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bongoText"
+        android:layout_alignRight="@+id/pianoText"
+        android:layout_alignEnd="@+id/pianoText"
+        android:layout_marginTop="34dp"
+        android:id="@+id/logginButton" />
 </RelativeLayout>
