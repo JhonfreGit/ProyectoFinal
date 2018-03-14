@@ -4,4 +4,6 @@
     <string name="piano">Piano</string>
     <string name="guitarra">guitarra</string>
     <string name="bongo">Bongo</string>
+    <string name="intro">Bienvenidos!!\nPor favor ingrese a la opción que aparece abajo
+                        para ingresar a su perfil y buscar mas instrumentos</string>
 </resources>
