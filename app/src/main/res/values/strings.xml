@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="tituloApp">Instrumentos Musicales</string>
+    <string name="piano">Piano</string>
+    <string name="guitarra">guitarra</string>
+    <string name="bongo">Bongo</string>
+</resources>
