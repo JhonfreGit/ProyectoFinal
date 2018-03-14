@@ -20,8 +20,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent Facebook = new Intent(getApplicationContext(), FacebookActivity.class);
                 startActivity(Facebook);
-
-
             }
         });
     }

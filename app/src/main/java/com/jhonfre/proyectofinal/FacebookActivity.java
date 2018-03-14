@@ -42,23 +42,17 @@ public class FacebookActivity extends AppCompatActivity {
         lB.registerCallback(cM, new FacebookCallback<LoginResult>() {
             @Override
             public void onSuccess(LoginResult loginResult) {
-
                 Toast.makeText(FacebookActivity.this, "¡Inicio de sesión exitoso!", Toast.LENGTH_LONG).show();
-
             }
 
             @Override
             public void onCancel() {
-
                 Toast.makeText(FacebookActivity.this, "¡Inicio de sesión cancelado!", Toast.LENGTH_LONG).show();
-
             }
 
             @Override
             public void onError(FacebookException error) {
-
                 Toast.makeText(FacebookActivity.this, "¡Inicio de sesión NO exitoso!", Toast.LENGTH_LONG).show();
-
             }
         });
     }
@@ -76,9 +70,9 @@ public class FacebookActivity extends AppCompatActivity {
             }
 
         } catch (PackageManager.NameNotFoundException e){
-
+            e.printStackTrace();
         }catch (NoSuchAlgorithmException e){
-
+            e.printStackTrace();
         }
 
     }
