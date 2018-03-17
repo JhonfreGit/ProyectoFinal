@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         loggin = (Button)findViewById(R.id.logginButton);
         loggin.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent Facebook = new Intent(getApplicationContext(), FacebookActivity.class);
+                Intent Facebook = new Intent(getApplicationContext(), FaceActivity.class);
                 startActivity(Facebook);
             }
         });

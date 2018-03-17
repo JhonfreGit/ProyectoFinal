@@ -4,8 +4,8 @@ import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.content.pm.Signature;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Base64;
 import android.util.Log;
 import android.widget.Toast;
@@ -20,7 +20,7 @@ import com.facebook.login.widget.LoginButton;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class FacebookActivity extends AppCompatActivity {
+public class FaceActivity extends AppCompatActivity {
 
     private CallbackManager cM;
     private LoginButton lB;
@@ -28,7 +28,7 @@ public class FacebookActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.facebook);
+        setContentView(R.layout.activity_face);
 
         FacebookSdk.sdkInitialize(getApplicationContext());
         cM = CallbackManager.Factory.create();
@@ -42,17 +42,17 @@ public class FacebookActivity extends AppCompatActivity {
         lB.registerCallback(cM, new FacebookCallback<LoginResult>() {
             @Override
             public void onSuccess(LoginResult loginResult) {
-                Toast.makeText(FacebookActivity.this, "¡Inicio de sesión exitoso!", Toast.LENGTH_LONG).show();
+                Toast.makeText(FaceActivity.this, "¡Inicio de sesión exitoso!", Toast.LENGTH_LONG).show();
             }
 
             @Override
             public void onCancel() {
-                Toast.makeText(FacebookActivity.this, "¡Inicio de sesión cancelado!", Toast.LENGTH_LONG).show();
+                Toast.makeText(FaceActivity.this, "¡Inicio de sesión cancelado!", Toast.LENGTH_LONG).show();
             }
 
             @Override
             public void onError(FacebookException error) {
-                Toast.makeText(FacebookActivity.this, "¡Inicio de sesión NO exitoso!", Toast.LENGTH_LONG).show();
+                Toast.makeText(FaceActivity.this, "¡Inicio de sesión NO exitoso!", Toast.LENGTH_LONG).show();
             }
         });
     }
@@ -80,3 +80,4 @@ public class FacebookActivity extends AppCompatActivity {
         cM.onActivityResult(reqCode, resCode, i);
     }
 }
+
