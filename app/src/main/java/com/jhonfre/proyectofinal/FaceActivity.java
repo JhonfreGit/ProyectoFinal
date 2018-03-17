@@ -28,14 +28,13 @@ public class FaceActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_face);
 
         FacebookSdk.sdkInitialize(getApplicationContext());
         cM = CallbackManager.Factory.create();
 
         getFbKeyHash("2jmj7l5rSw0yVb/vlWAYkK/YBwk=");
 
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_face);
 
         lB = (LoginButton)findViewById(R.id.login_button);
 
